@@ -2,7 +2,7 @@
   "name": "com.jvcoutinho.andromeda",
   "version": "1.0.0",
   "displayName": "Andromeda",
-  "description": "Event bus system for Unity3D.",
+  "description": "Event bus system library for Unity3D. Add new events implementing interface IEvent and setup Observer pattern annotating method with Observes inside EventOrientedBehaviours.",
   "documentationUrl": "https://github.com/jvcoutinho/andromeda",
   "keywords": [
     "events",
