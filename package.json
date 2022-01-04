@@ -1,0 +1,18 @@
+{
+  "name": "com.jvcoutinho.andromeda",
+  "version": "1.0.0",
+  "displayName": "Andromeda",
+  "description": "Event bus system for Unity3D.",
+  "documentationUrl": "https://github.com/jvcoutinho/andromeda",
+  "keywords": [
+    "events",
+    "event",
+    "library",
+    "eod"
+  ],
+  "author": {
+    "name": "Jo\u00e3o Coutinho",
+    "email": "joao.coutinho9@gmail.com",
+    "url": "https://github.com/jvcoutinho/andromeda"
+  }
+}
