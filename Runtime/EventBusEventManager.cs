@@ -12,9 +12,9 @@ namespace Andromeda
     {
         private readonly IDictionary<Type, Delegate> actions;
 
-        public EventBusEventManager(IDictionary<Type, Delegate> actions = null)
+        public EventBusEventManager()
         {
-            this.actions = actions ?? new Dictionary<Type, Delegate>();
+            actions = new Dictionary<Type, Delegate>();
         }
 
         /**
